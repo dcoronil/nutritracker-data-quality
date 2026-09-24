@@ -1,4 +1,4 @@
-# Calidad de Datos en NutriTracker con OpenMetadata
+# NutriTracker Data Quality
 
 Este repositorio recoge el trabajo de la práctica de OpenMetadata aplicado al proyecto NutriTracker, una aplicación de seguimiento nutricional.
 
